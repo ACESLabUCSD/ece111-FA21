@@ -1,26 +1,19 @@
 ---
 layout: about
-title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
-
-profile:
-  align: right
-  image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
-  address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
-
-news: true  # includes a list of news items
-latest_posts: true  # includes a list of the newest posts
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+title: Advanced Digital Design Project 
+description: ECE 111 • Fall 2021 • UC San Diego
+news: true
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+In this course, students will learn about automated digital design. They will learn to utilize a hardware description language (HDL) in the digital design process. The language of choice is Verilog. Emphasis is on system level concepts and high-level design, and the language syntax will be presented to support the realization of the presented concepts. The students will get to design, synthesize (compile), simulate, and optimize the digital design, on a real hardware simulation platform. More specifically, a commercial computer aided design tool will be used to design a series of increasingly sophisticated designs on field programmable gate arrays (FPGAs). 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+***
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+- **Instructor**: Prof. Farinaz Koushanfar, UCSD ECE 
+- **Time:** Tues/Thurs 12:30-13:50PM 
+- **Location:** Online
+- **Office Hours**: Thurs 2pm-4:00pm (in person and by email appointment)
+- **Discussion**: Piazza
+
+***

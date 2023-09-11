@@ -1,0 +1,212 @@
+- date: 09/23/2021
+  lecturer: Koushanfar
+  title: >
+    <strong>Introduction</strong>
+  slides: ""
+  video: ""
+  readings:
+    - 
+  logistics:
+
+- date: 09/28/2021
+  lecturer: 
+  title: >
+    <strong>System Verilog</strong>
+  slides: ""
+  video: ""
+  readings:
+    - 
+  logistics:
+
+- date: 09/30/2021
+  lecturer: 
+  title: >
+    <strong>ASIC, FPGA Architecture, Logic Synthesis</strong>
+  slides: ""
+  video: ""
+  readings:
+    - 
+  logistics:
+
+- date: 10/05/2021
+  lecturer: 
+  title: >
+    <strong>Introduction to SystemVerilog (1)</strong>
+  slides: ""
+  video: ""
+  readings:
+    - 
+  logistics: Homework_0
+
+- date: 10/07/2021
+  lecturer: 
+  title: >
+    <strong>Introduction to SystemVerilog (2)</strong>
+  slides: ""
+  video: ""
+  readings:
+    - 
+  logistics:
+
+- date: 10/12/2021
+  lecturer: 
+  title: >
+    <strong>Anatomy of SystemVerilog Module</strong>
+  slides: ""
+  video: ""
+  readings:
+    - 
+  logistics:
+
+- date: 10/14/2021
+  lecturer: 
+  title: >
+    <strong>SystemVerilog Data Types, Continuous Assignment Statement and Conditional Operator</strong>
+  slides: ""
+  video: ""
+  readings:
+    - 
+  logistics: Mini Project_1
+
+- date: 10/19/2021
+  lecturer: 
+  title: >
+    <strong>Blocking and Non-blocking Assignments</strong>
+  slides: ""
+  video: ""
+  readings:
+    - 
+  logistics:
+
+- date: 10/21/2021
+  lecturer: 
+  title: >
+    <strong>Procedural Blocks (1)</strong>
+  slides: ""
+  video: ""
+  readings:
+    - 
+  logistics: Mini Project_2
+
+- date: 10/26/2021
+  lecturer: 
+  title: >
+    <strong>Procedural Blocks (2)</strong>
+  slides: ""
+  video: ""
+  readings:
+    - 
+  logistics: 
+
+
+- date: 10/28/2021
+  lecturer: 
+  title: >
+    <strong>RTL Programming Statements</strong>
+  slides: ""
+  video: ""
+  readings:
+    - 
+  logistics: 
+
+
+- date: 11/02/2021
+  lecturer: 
+  title: >
+    <strong>RTL Programming Statements</strong>
+  slides: ""
+  video: ""
+  readings:
+    - 
+  logistics:  Mini Project_3
+
+- date: 11/04/2021
+  lecturer: 
+  title: >
+    <strong>Finite State Machine (1)</strong>
+  slides: ""
+  video: ""
+  readings:
+    - 
+  logistics: 
+
+- date: 11/09/2021
+  lecturer: 
+  title: >
+    <strong>Finite State Machine (2)</strong>
+  slides: ""
+  video: ""
+  readings:
+    - 
+  logistics: Final Project
+
+- date: 11/16/2021
+  lecturer: 
+  title: >
+    <strong>Delay optimization</strong>
+  slides: ""
+  video: ""
+  readings:
+    - 
+  logistics: 
+
+- date: 11/18/2021
+  lecturer: 
+  title: >
+    <strong>Project discussions part 1</strong>
+  slides: ""
+  video: ""
+  readings:
+    - 
+  logistics: 
+
+- date: 11/23/2021
+  lecturer: 
+  title: >
+    <strong>Project discussions part 2</strong>
+  slides: ""
+  video: ""
+  readings:
+    - 
+  logistics: 
+
+- date: 11/25/2021
+  lecturer: 
+  title: >
+    <strong>Thanksgiving Holiday!</strong>
+  slides: ""
+  video: ""
+  readings:
+    - 
+  logistics: 
+
+- date: 11/30/2021
+  lecturer: 
+  title: >
+    <strong>Project discussions part 3</strong>
+  slides: ""
+  video: ""
+  readings:
+    - 
+  logistics: 
+
+- date: 12/02/2021
+  lecturer: 
+  title: >
+    <strong>Final project presentation</strong>
+  slides: ""
+  video: ""
+  readings:
+    - 
+  logistics: 
+
+- date: 12/09/2021	
+
+  lecturer: 
+  title: >
+    <strong>Final project report Due</strong>
+  slides: ""
+  video: ""
+  readings:
+    - 
+  logistics: 
