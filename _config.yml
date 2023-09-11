@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 author: UCSD ACES Lab
-name: ECE 111
+name: ECE 111 Advanced Digital Design Project
 title: Advanced Digital Design Project
 email: farinaz@ucsd.edu
 description: >
@@ -17,18 +17,9 @@ baseurl:  # the subpath of your site, e.g. /blog/
 # Social integration
 # -----------------------------------------------------------------------------
 github_username: ACESLabUCSD
+youtube_channel: farinazk1
 rss:  # notes rss
 
-# -----------------------------------------------------------------------------
-# Blog
-# -----------------------------------------------------------------------------
-blog_name: Course Notes
-blog_description: The notes written by students and edited by instructors
-
-# Pagination
-paginate: 10
-permalink: /notes/:title/
-paginate_path: /notes/page:num/
 
 text:
   pagination:
@@ -44,17 +35,7 @@ enable_anchorjs:    true
 enable_latexjs:     true
 enable_katex:       true
 
-# -----------------------------------------------------------------------------
-# Collections
-# -----------------------------------------------------------------------------
-collections:
-  announcements:
-    defaults:
-      layout: post
-    output: true
-    permalink: /announcements/:path/
 
-announcements_limit: 5
 
 # -----------------------------------------------------------------------------
 # Jekyll settings

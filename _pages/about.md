@@ -15,5 +15,3 @@ In this course, students will learn about automated digital design. They will le
 - **Location:** Online
 - **Office Hours**: Thurs 2pm-4:00pm (in person and by email appointment)
 - **Discussion**: Piazza
-
-***

@@ -4,11 +4,17 @@ permalink: /video/
 title: Interactive Video
 ---
 
+#### <span style="color:red">Notice: The videos on this page are only for course introduction and not the actual lecture recordings</span>.
+
+_____
+
+
+
 {% assign current_module = 0 %}
 {% assign skip_classes = 0 %}
 {% assign prev_date = 0 %}
 
-{% for item in site.data.lectures %}
+{% for item in site.data.video %}
 {% if item.date %}
 {% assign lecture = item %}
 {% assign event_type = "upcoming" %}
@@ -25,34 +31,10 @@ title: Interactive Video
     <th scope="row">{{ lecture.date }}</th>
     {% if lecture.title contains 'No class' or forloop.last %}
     {% assign skip_classes = skip_classes | plus: 1 %}
-    <td colspan="4" align="center">{{ lecture.title }}</td>
+    <td colspan="2" align="center">{{ lecture.title }}</td>
     {% else %}
     <td>
-        Lecture #{{ forloop.index | minus: current_module | minus: skip_classes }}
-        {% if lecture.lecturer %}({{ lecture.lecturer }}){% endif %}:
-        <br />
-        {{ lecture.title }}
-        <br />
-        [
-            {% if lecture.slides %}
-              <a href="{{ lecture.slides }}" target="_blank">slides</a>
-            {% else %}
-              slides
-            {% endif %}
-            {% if lecture.annotated %}
-              (<a href="{{ lecture.annotated }}" target="_blank">annotated</a>)
-            {% endif %}
-            {% if lecture.video %}
-            | <a href="{{ lecture.video }}" target="_blank">video</a>
-            {% else %}
-            | video
-            {% endif %}
-            {% if lecture.notes %}
-            | <a href="{{ lecture.notes }}" target="_blank">notes</a>
-            {% else %}
-            | notes
-            {% endif %}
-        ]
+        Lecture #{{ forloop.index | minus: current_module | minus: skip_classes }}: {{ lecture.title }}
     </td>
     <td>
         {% if lecture.readings %}
@@ -62,9 +44,6 @@ title: Interactive Video
         {% endfor %}
         </ul>
         {% endif %}
-    </td>
-    <td>
-        <p>{{ lecture.logistics }}</p>
     </td>
     {% endif %}
 </tr>
