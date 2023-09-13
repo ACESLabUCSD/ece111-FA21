@@ -2,8 +2,7 @@
   lecturer:
   title: >
     <strong>Introduction</strong>
-  slides: ""
-  video: ""
+  slides: "https://docs.google.com/presentation/d/11UjbCDkRvKKAA0srqw1aZbHTDnR4jo4f/edit?usp=sharing&ouid=113017722085653394029&rtpof=true&sd=true"
   readings:
     - 
   logistics:
@@ -12,8 +11,7 @@
   lecturer: 
   title: >
     <strong>System Verilog</strong>
-  slides: ""
-  video: ""
+  slides: "https://docs.google.com/presentation/d/1TLHeKVRz0jc56dBNcWHwYfTOtdsa9O4M/edit?usp=sharing&ouid=113017722085653394029&rtpof=true&sd=true"
   readings:
     - 
   logistics:
@@ -22,8 +20,7 @@
   lecturer: 
   title: >
     <strong>ASIC, FPGA Architecture, Logic Synthesis</strong>
-  slides: ""
-  video: ""
+  slides: "https://docs.google.com/presentation/d/1TLHeKVRz0jc56dBNcWHwYfTOtdsa9O4M/edit?usp=sharing&ouid=113017722085653394029&rtpof=true&sd=true"
   readings:
     - 
   logistics:
@@ -32,8 +29,7 @@
   lecturer: 
   title: >
     <strong>Introduction to SystemVerilog (1)</strong>
-  slides: ""
-  video: ""
+  slides: "https://docs.google.com/presentation/d/1ZkZ0uCQ1nkP3EF3XraP8CsGzpgoKCGvN/edit?usp=sharing&ouid=113017722085653394029&rtpof=true&sd=true"
   readings:
     - 
   logistics: Homework_0
@@ -42,8 +38,7 @@
   lecturer: 
   title: >
     <strong>Introduction to SystemVerilog (2)</strong>
-  slides: ""
-  video: ""
+  slides: "https://docs.google.com/presentation/d/1ZkZ0uCQ1nkP3EF3XraP8CsGzpgoKCGvN/edit?usp=sharing&ouid=113017722085653394029&rtpof=true&sd=true"
   readings:
     - 
   logistics:
@@ -52,8 +47,7 @@
   lecturer: 
   title: >
     <strong>Anatomy of SystemVerilog Module</strong>
-  slides: ""
-  video: ""
+  slides: "https://docs.google.com/presentation/d/1gF8BOqd2Xu-xnV-REgBnDIBVh3-QEDKZ/edit?usp=sharing&ouid=113017722085653394029&rtpof=true&sd=true"
   readings:
     - 
   logistics:
@@ -62,8 +56,7 @@
   lecturer: 
   title: >
     <strong>SystemVerilog Data Types, Continuous Assignment Statement and Conditional Operator</strong>
-  slides: ""
-  video: ""
+  slides: "https://docs.google.com/presentation/d/17pGRn9GFuZzik3Y0iLP7JI5gO8N4Nf8w/edit?usp=sharing&ouid=113017722085653394029&rtpof=true&sd=true"
   readings:
     - 
   logistics: Mini Project_1
@@ -72,8 +65,7 @@
   lecturer: 
   title: >
     <strong>Blocking and Non-blocking Assignments</strong>
-  slides: ""
-  video: ""
+  slides: "https://docs.google.com/presentation/d/1_0-u1i34K2uYsNHAeRSLFsEMwNVfGdFJ/edit?usp=sharing&ouid=113017722085653394029&rtpof=true&sd=true"
   readings:
     - 
   logistics:
@@ -82,8 +74,7 @@
   lecturer: 
   title: >
     <strong>Procedural Blocks (1)</strong>
-  slides: ""
-  video: ""
+  slides: "https://docs.google.com/presentation/d/12aDPZV31h23hPONeRr4G-ejyxuU8sfUv/edit?usp=sharing&ouid=113017722085653394029&rtpof=true&sd=true"
   readings:
     - 
   logistics: Mini Project_2
@@ -92,8 +83,7 @@
   lecturer: 
   title: >
     <strong>Procedural Blocks (2)</strong>
-  slides: ""
-  video: ""
+  slides: "https://docs.google.com/presentation/d/12aDPZV31h23hPONeRr4G-ejyxuU8sfUv/edit?usp=sharing&ouid=113017722085653394029&rtpof=true&sd=true"
   readings:
     - 
   logistics: 
@@ -103,8 +93,7 @@
   lecturer: 
   title: >
     <strong>RTL Programming Statements</strong>
-  slides: ""
-  video: ""
+  slides: "https://docs.google.com/presentation/d/11kFMWEWJx4jkNVaMXxDyC1IwXu0sKEJx/edit?usp=sharing&ouid=113017722085653394029&rtpof=true&sd=true"
   readings:
     - 
   logistics: 
@@ -114,8 +103,8 @@
   lecturer: 
   title: >
     <strong>RTL Programming Statements</strong>
-  slides: ""
-  video: ""
+  slides: "https://docs.google.com/presentation/d/11kFMWEWJx4jkNVaMXxDyC1IwXu0sKEJx/edit?usp=sharing&ouid=113017722085653394029&rtpof=true&sd=true"
+
   readings:
     - 
   logistics:  Mini Project_3
@@ -124,8 +113,8 @@
   lecturer: 
   title: >
     <strong>Finite State Machine (1)</strong>
-  slides: ""
-  video: ""
+  slides: "https://docs.google.com/presentation/d/1jo8Bkq0ijcnfjeZnG0Y6DofDpm_hz-dt/edit?usp=sharing&ouid=113017722085653394029&rtpof=true&sd=true"
+
   readings:
     - 
   logistics: 
@@ -134,8 +123,8 @@
   lecturer: 
   title: >
     <strong>Finite State Machine (2)</strong>
-  slides: ""
-  video: ""
+  slides: "https://docs.google.com/presentation/d/1jo8Bkq0ijcnfjeZnG0Y6DofDpm_hz-dt/edit?usp=sharing&ouid=113017722085653394029&rtpof=true&sd=true"
+
   readings:
     - 
   logistics: Final Project
@@ -144,8 +133,8 @@
   lecturer: 
   title: >
     <strong>Delay optimization</strong>
-  slides: ""
-  video: ""
+  slides: "https://docs.google.com/presentation/d/1i4yyIPQNATwaS29KR_hQccp3nnqxLrFB/edit?usp=sharing&ouid=113017722085653394029&rtpof=true&sd=true"
+
   readings:
     - 
   logistics: 
@@ -154,8 +143,8 @@
   lecturer: 
   title: >
     <strong>Project discussions part 1</strong>
-  slides: ""
-  video: ""
+  slides: "https://docs.google.com/presentation/d/1qZ6AvqvCrT7uUNhcZ0XtSAcMWXKAg9Mp/edit?usp=sharing&ouid=113017722085653394029&rtpof=true&sd=true"
+
   readings:
     - 
   logistics: 
@@ -164,8 +153,8 @@
   lecturer: 
   title: >
     <strong>Project discussions part 2</strong>
-  slides: ""
-  video: ""
+  slides: "https://docs.google.com/presentation/d/1N6dc1r8_4DM_L0B-PttwrHa6u0F7e6G3/edit?usp=sharing&ouid=113017722085653394029&rtpof=true&sd=true"
+
   readings:
     - 
   logistics: 
@@ -174,8 +163,7 @@
   lecturer: 
   title: >
     <strong>Thanksgiving Holiday!</strong>
-  slides: ""
-  video: ""
+
   readings:
     - 
   logistics: 
@@ -184,8 +172,8 @@
   lecturer: 
   title: >
     <strong>Project discussions part 3</strong>
-  slides: ""
-  video: ""
+  slides: "https://docs.google.com/presentation/d/1VzR-3VaASqdKT8bV78dK7mDlRNaC0Vhl/edit?usp=sharing&ouid=113017722085653394029&rtpof=true&sd=true"
+
   readings:
     - 
   logistics: 
@@ -194,8 +182,6 @@
   lecturer: 
   title: >
     <strong>Final project presentation</strong>
-  slides: ""
-  video: ""
   readings:
     - 
   logistics: 
@@ -205,7 +191,7 @@
   title: >
    <strong>Final project report Due</strong>
   slides: ""
-  video: ""
+
   readings:
     - 
   logistics: 

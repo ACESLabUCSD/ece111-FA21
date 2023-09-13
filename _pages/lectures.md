@@ -30,7 +30,19 @@ title: Schedule
     <td>
         Lecture #{{ forloop.index | minus: current_module | minus: skip_classes }}:
         {{ lecture.title }}
-        
+        <br />
+            {% if lecture.slides %}
+              [<a href="{{ lecture.slides }}" target="_blank">slides</a>]
+            {% endif %}
+            {% if lecture.annotated %}
+              (<a href="{{ lecture.annotated }}" target="_blank">annotated</a>)
+            {% endif %}
+            {% if lecture.video %}
+            | <a href="{{ lecture.video }}" target="_blank">video</a>
+            {% endif %}
+            {% if lecture.notes %}
+            | <a href="{{ lecture.notes }}" target="_blank">notes</a>
+            {% endif %}  
     </td>
 
     <td>
