@@ -12,6 +12,7 @@ _____
 
 {% assign current_module = 0 %}
 {% assign skip_classes = 0 %}
+{% assign merge_class = 0 %}
 {% assign prev_date = 0 %}
 
 {% for item in site.data.video %}
@@ -33,7 +34,12 @@ _____
     <td colspan="2" align="center">{{ lecture.title }}</td>
     {% else %}
     <td>
-        Subject #{{ forloop.index | minus: current_module | minus: skip_classes }}: {{ lecture.title }}
+        {% if lecture.title contains "Logic in SystemVerilog"%}
+            Subject #4 & #5: {{ lecture.title }}
+            {% assign merge_class = merge_class | plus: 1 %}
+        {% else %}
+            Subject #{{ forloop.index | minus: current_module | minus: skip_classes | plus: merge_class}}: {{ lecture.title }}
+        {% endif %}
     </td>
     <td>
         {% if lecture.readings %}

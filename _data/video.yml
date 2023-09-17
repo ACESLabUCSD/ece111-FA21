@@ -26,12 +26,61 @@
     - <a href="https://www.youtube.com/watch?v=wsf4mQ42quU" target="_blank">Set 2 Basics of SystemVerilog module elements</a>
   logistics:
 
-- date: 12/09/2021	
-
+- date: 09/30/2021
   lecturer: 
   title: >
+     <strong>FPGA</strong>
   slides: ""
   video: ""
   readings:
-    - 
+    - <a href="https://www.youtube.com/watch?v=A_caN_D9298" target="_blank">Set 1 Memory Arrays</a>
+    - <a href="https://www.youtube.com/watch?v=cC6LGl0wt9s" target="_blank">Set 1 Memory Arrays Example</a>
+    - <a href="https://www.youtube.com/watch?v=q6lod0LcmgQ" target="_blank">Set 2 Different Types of Memories</a>
+    - <a href="https://www.youtube.com/watch?v=8xz2VQ_ir20" target="_blank">Set 3 Logic with Memories</a>
+    - <a href="https://www.youtube.com/watch?v=y6QD7iUHx4s" target="_blank">Set 4 FPGA</a>
+    - <a href="https://www.youtube.com/watch?v=rKOwEeF0PHk" target="_blank">Set 5 FPGA & ASIC Digital Design Flow</a>
+    - <a href="https://www.youtube.com/watch?v=A99lZuTxYyk" target="_blank">Set 6 Simulation and Synthesis</a>
   logistics: 
+
+- date: 10/05/2021
+  lecturer: 
+  title: >
+     <strong>Combinational Logic in SystemVerilog</strong>
+  slides: ""
+  video: ""
+  readings:
+    - <a href="https://www.youtube.com/watch?v=NvcctoXcYq4" target="_blank">Set 1 SystemVerilog Modeling Abstractions (Behavioral, Data Flow and RTL)</a>
+    - <a href="https://www.youtube.com/watch?v=Y_KcZNqo4YU" target="_blank">Set 2 SystemVerilog Modeling Abstractions (Gate Level and Switch Level)</a>
+    - <a href="https://www.youtube.com/watch?v=CQ0lAryGqXo" target="_blank">Set 3 Examples in Different Abstraction Levels</a>
+    - <a href="https://www.youtube.com/watch?v=CQ0lAryGqXo" target="_blank">Set 4 SystemVerilog Data Types</a>
+    - <a href="https://www.youtube.com/watch?v=qaMa1nYtsbk" target="_blank">Set 5 Conditional Operator and Continuous Assignment Statement</a>
+  logistics: 
+
+
+- date: 10/07/2021
+  lecturer: 
+  title: >
+     <strong>Delay Simulation, Flip Flops and Blocking vs non-Blocking</strong>
+  slides: ""
+  video: ""
+  readings:
+    - <a href="https://www.youtube.com/watch?v=14Hm7dxge5s" target="_blank">Set 1 Delay Simulation</a>
+    - <a href="https://www.youtube.com/watch?v=HGw5NNXzbhE" target="_blank">Set 2 Flip Flops </a>
+    - <a href="https://www.youtube.com/watch?v=Gsid4K9wSF4" target="_blank">Set 3 Blocking vs non-Blocking Assignment</a>
+    - <a href="https://www.youtube.com/watch?v=qzWF_VhXqlc" target="_blank">Set 4 Inter-Delay and Intra-Delay</a>
+    - <a href="https://www.youtube.com/watch?v=xEPvLNko2j8" target="_blank">Set 5 More Examples</a>
+  logistics: 
+
+- date: 10/12/2021
+  lecturer: 
+  title: >
+     <strong>Finite State Machine in SystemVerilog</strong>
+  slides: ""
+  video: ""
+  readings:
+    - <a href="https://www.youtube.com/watch?v=Wd1nw5lSy34" target="_blank">Set 1 Mealy and Moore Finite State Machine</a>
+    - <a href="https://www.youtube.com/watch?v=VfGXQzgmQBI" target="_blank">Set 2 FSM in SystemVerilog </a>
+    - <a href="https://www.youtube.com/watch?v=wkIh1saI-Ao" target="_blank">Set 3 Traffic Light FSM</a>
+  logistics: 
+
+- date: 12/09/2021	
