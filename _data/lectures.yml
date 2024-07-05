@@ -2,7 +2,7 @@
   lecturer:
   title: >
     <strong>Introduction</strong>
-  slides: "https://docs.google.com/presentation/d/11UjbCDkRvKKAA0srqw1aZbHTDnR4jo4f/edit?usp=sharing&ouid=113017722085653394029&rtpof=true&sd=true"
+  slides: "https://drive.google.com/file/d/1lE2yr5Ur3rMZCM3-CF4ygme2tJbpMv6M/view?usp=sharing"
   readings:
     - 
   logistics:
@@ -11,7 +11,7 @@
   lecturer: 
   title: >
     <strong>System Verilog</strong>
-  slides: "https://docs.google.com/presentation/d/1TLHeKVRz0jc56dBNcWHwYfTOtdsa9O4M/edit?usp=sharing&ouid=113017722085653394029&rtpof=true&sd=true"
+  slides: "https://drive.google.com/file/d/1Ylh4X6odnxiIwW3ZhTriAfEkQ7VAPLSM/view?usp=sharing"
   readings:
     - 
   logistics:
@@ -20,7 +20,7 @@
   lecturer: 
   title: >
     <strong>ASIC, FPGA Architecture, Logic Synthesis</strong>
-  slides: "https://docs.google.com/presentation/d/1TLHeKVRz0jc56dBNcWHwYfTOtdsa9O4M/edit?usp=sharing&ouid=113017722085653394029&rtpof=true&sd=true"
+  slides: "https://drive.google.com/file/d/1Ylh4X6odnxiIwW3ZhTriAfEkQ7VAPLSM/view?usp=sharing"
   readings:
     - 
   logistics:
@@ -29,16 +29,17 @@
   lecturer: 
   title: >
     <strong>Introduction to SystemVerilog (1)</strong>
-  slides: "https://docs.google.com/presentation/d/1ZkZ0uCQ1nkP3EF3XraP8CsGzpgoKCGvN/edit?usp=sharing&ouid=113017722085653394029&rtpof=true&sd=true"
+  slides: "https://drive.google.com/file/d/1juMDMw1EC0un2e-eTIaNGJdMcbvpS61B/view?usp=sharing"
   readings:
     - 
   logistics: Homework_0
+  hw_link: "https://drive.google.com/drive/u/1/folders/1SCJwJalW-Mv6GkNhqYCwvOMKL4U88i0v"
 
 - date: 10/07/2021
   lecturer: 
   title: >
     <strong>Introduction to SystemVerilog (2)</strong>
-  slides: "https://docs.google.com/presentation/d/1ZkZ0uCQ1nkP3EF3XraP8CsGzpgoKCGvN/edit?usp=sharing&ouid=113017722085653394029&rtpof=true&sd=true"
+  slides: "https://drive.google.com/file/d/1juMDMw1EC0un2e-eTIaNGJdMcbvpS61B/view?usp=sharing"
   readings:
     - 
   logistics:
@@ -47,7 +48,7 @@
   lecturer: 
   title: >
     <strong>Anatomy of SystemVerilog Module</strong>
-  slides: "https://docs.google.com/presentation/d/1gF8BOqd2Xu-xnV-REgBnDIBVh3-QEDKZ/edit?usp=sharing&ouid=113017722085653394029&rtpof=true&sd=true"
+  slides: "https://drive.google.com/file/d/1sX1y6JRbzf4pOU97I7T5oUvqiuYrF8An/view?usp=sharing"
   readings:
     - 
   logistics:
@@ -56,16 +57,17 @@
   lecturer: 
   title: >
     <strong>SystemVerilog Data Types, Continuous Assignment Statement and Conditional Operator</strong>
-  slides: "https://docs.google.com/presentation/d/17pGRn9GFuZzik3Y0iLP7JI5gO8N4Nf8w/edit?usp=sharing&ouid=113017722085653394029&rtpof=true&sd=true"
+  slides: "https://drive.google.com/file/d/1VZP-bIkAtMVaz4xRRSrnz6Uwtp0NiWO0/view?usp=sharing"
   readings:
     - 
   logistics: Mini Project_1
+  hw_link: "https://drive.google.com/drive/u/1/folders/1SCJwJalW-Mv6GkNhqYCwvOMKL4U88i0v"
 
 - date: 10/19/2021
   lecturer: 
   title: >
     <strong>Blocking and Non-blocking Assignments</strong>
-  slides: "https://docs.google.com/presentation/d/1_0-u1i34K2uYsNHAeRSLFsEMwNVfGdFJ/edit?usp=sharing&ouid=113017722085653394029&rtpof=true&sd=true"
+  slides: "https://drive.google.com/file/d/1pHHXpn5vJv3cd5WO8LTgbTZeqtkeFnZz/view?usp=sharing"
   readings:
     - 
   logistics:
@@ -74,16 +76,17 @@
   lecturer: 
   title: >
     <strong>Procedural Blocks (1)</strong>
-  slides: "https://docs.google.com/presentation/d/12aDPZV31h23hPONeRr4G-ejyxuU8sfUv/edit?usp=sharing&ouid=113017722085653394029&rtpof=true&sd=true"
+  slides: "https://drive.google.com/file/d/1Ddb71xDR_BM4xrXhvGgOrqGmI4PwMauG/view?usp=sharing"
   readings:
     - 
   logistics: Mini Project_2
+  hw_link: "https://drive.google.com/drive/u/1/folders/1SCJwJalW-Mv6GkNhqYCwvOMKL4U88i0v"
 
 - date: 10/26/2021
   lecturer: 
   title: >
     <strong>Procedural Blocks (2)</strong>
-  slides: "https://docs.google.com/presentation/d/12aDPZV31h23hPONeRr4G-ejyxuU8sfUv/edit?usp=sharing&ouid=113017722085653394029&rtpof=true&sd=true"
+  slides: "https://drive.google.com/file/d/1Ddb71xDR_BM4xrXhvGgOrqGmI4PwMauG/view?usp=sharing"
   readings:
     - 
   logistics: 
@@ -93,7 +96,7 @@
   lecturer: 
   title: >
     <strong>RTL Programming Statements</strong>
-  slides: "https://docs.google.com/presentation/d/11kFMWEWJx4jkNVaMXxDyC1IwXu0sKEJx/edit?usp=sharing&ouid=113017722085653394029&rtpof=true&sd=true"
+  slides: "https://drive.google.com/file/d/13IZRc5jWGPJLnv9MXZK_RK2qCegiKmGg/view?usp=sharing"
   readings:
     - 
   logistics: 
@@ -103,17 +106,18 @@
   lecturer: 
   title: >
     <strong>RTL Programming Statements</strong>
-  slides: "https://docs.google.com/presentation/d/11kFMWEWJx4jkNVaMXxDyC1IwXu0sKEJx/edit?usp=sharing&ouid=113017722085653394029&rtpof=true&sd=true"
+  slides: "https://drive.google.com/file/d/13IZRc5jWGPJLnv9MXZK_RK2qCegiKmGg/view?usp=sharing"
 
   readings:
     - 
   logistics:  Mini Project_3
+  hw_link: "https://drive.google.com/drive/u/1/folders/1SCJwJalW-Mv6GkNhqYCwvOMKL4U88i0v"
 
 - date: 11/04/2021
   lecturer: 
   title: >
     <strong>Finite State Machine (1)</strong>
-  slides: "https://docs.google.com/presentation/d/1jo8Bkq0ijcnfjeZnG0Y6DofDpm_hz-dt/edit?usp=sharing&ouid=113017722085653394029&rtpof=true&sd=true"
+  slides: "https://drive.google.com/file/d/1HN6Yj9BuluoBsw7vbE3G6n-yf3b0qgfd/view?usp=sharing"
 
   readings:
     - 
@@ -123,17 +127,18 @@
   lecturer: 
   title: >
     <strong>Finite State Machine (2)</strong>
-  slides: "https://docs.google.com/presentation/d/1jo8Bkq0ijcnfjeZnG0Y6DofDpm_hz-dt/edit?usp=sharing&ouid=113017722085653394029&rtpof=true&sd=true"
+  slides: "https://drive.google.com/file/d/1HN6Yj9BuluoBsw7vbE3G6n-yf3b0qgfd/view?usp=sharing"
 
   readings:
     - 
   logistics: Final Project
+  hw_link: "https://drive.google.com/drive/u/1/folders/1SCJwJalW-Mv6GkNhqYCwvOMKL4U88i0v"
 
 - date: 11/16/2021
   lecturer: 
   title: >
     <strong>Delay optimization</strong>
-  slides: "https://docs.google.com/presentation/d/1i4yyIPQNATwaS29KR_hQccp3nnqxLrFB/edit?usp=sharing&ouid=113017722085653394029&rtpof=true&sd=true"
+  slides: "https://drive.google.com/file/d/1us6ZhPJl2TWGzYcAPrRn47bmY433cJrm/view?usp=sharing"
 
   readings:
     - 
@@ -143,7 +148,7 @@
   lecturer: 
   title: >
     <strong>Project discussions part 1</strong>
-  slides: "https://docs.google.com/presentation/d/1qZ6AvqvCrT7uUNhcZ0XtSAcMWXKAg9Mp/edit?usp=sharing&ouid=113017722085653394029&rtpof=true&sd=true"
+  slides: "https://drive.google.com/file/d/1uV7GBPCeQcb-f1QdNNkhcWWYcZk44qbg/view?usp=sharing"
 
   readings:
     - 
@@ -153,7 +158,7 @@
   lecturer: 
   title: >
     <strong>Project discussions part 2</strong>
-  slides: "https://docs.google.com/presentation/d/1N6dc1r8_4DM_L0B-PttwrHa6u0F7e6G3/edit?usp=sharing&ouid=113017722085653394029&rtpof=true&sd=true"
+  slides: "https://drive.google.com/file/d/1s31sOnzpMY_TKSgjmxA0Ykh9zi1VKdFu/view?usp=sharing"
 
   readings:
     - 
@@ -172,7 +177,7 @@
   lecturer: 
   title: >
     <strong>Project discussions part 3</strong>
-  slides: "https://docs.google.com/presentation/d/1VzR-3VaASqdKT8bV78dK7mDlRNaC0Vhl/edit?usp=sharing&ouid=113017722085653394029&rtpof=true&sd=true"
+  slides: "https://drive.google.com/file/d/1s31sOnzpMY_TKSgjmxA0Ykh9zi1VKdFu/view?usp=sharing"
 
   readings:
     - 
